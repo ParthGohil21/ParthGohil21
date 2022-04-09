@@ -42,13 +42,13 @@
 <p align="center">
   👋 Hello, I'm Parth
   
-  🤖 Machine Learning Engineer.
-  🧠 Currently focusing on Computer Vision and Deep Learning in general.
-  ❤️‍🔥 Kaggler by heart.
-  🗾 Fan of Anime and Japan.
-  🏫 Undergraduate in B.com with Statistics.
-  🤗 Always excited to collaborate and growing together.
-  📥 Reach out me through my mail: parthgohil740@gmail.com or [Twitter](https://twitter.com/prthgo).
+  - 🤖 Machine Learning Engineer.
+  - 🧠 Currently focusing on Computer Vision and Deep Learning in general.
+  - ❤️‍🔥 Kaggler by heart.
+  - 🗾 Fan of Anime and Japan.
+  - 🏫 Undergraduate in B.com with Statistics.
+  - 🤗 Always excited to collaborate and growing together.
+  - 📥 Reach out me through my mail: parthgohil740@gmail.com or [Twitter](https://twitter.com/prthgo).
   
   
 </p>
