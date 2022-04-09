@@ -40,7 +40,16 @@
 <!-- About me section-->
 <h2 align="center"> ABOUT ME </h2>
 <p align="center">
-  Add some points about yourself, current activities, learnings, here!
+  👋 Hello, I'm Parth
+  🤖 Machine Learning Engineer 
+  🧠 Currently focusing on Computer Vision and Deep Learning in general.
+  ❤️‍🔥 Kaggler by heart 
+  🗾 Fan of Anime and Japan
+  🏫 Undergraduate in B.com with Statistics 
+  🤗 Always excited to collaborate and growing together 
+  📥 Reach out me through my mail: parthgohil740@gmail.com or [Twitter](https://twitter.com/prthgo) 
+  
+  
 </p>
 
 
@@ -132,5 +141,5 @@
 
 <h2 align="center">📈 Activity</h2>
 <!--Change your username below-->
-<!--[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!--[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=material-palenight)](https://github.com/ParthGohil21/github-readme-activity-graph) -->
 
