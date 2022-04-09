@@ -142,5 +142,5 @@
 
 <h2 align="center">📈 Activity</h2>
 <!--Change your username below-->
-<!--[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=prthgo&theme=material-palenight)](https://github.com/ParthGohil21/github-readme-activity-graph) -->
+<--[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=parthgohil740@gmail.com&theme=material-palenight)](https://github.com/ParthGohil21/github-readme-activity-graph) -->
 
