@@ -40,8 +40,8 @@
 <!-- About me section-->
 <h2 align="center"> ABOUT ME </h2>
 <p align="center">
-  👋 Hello, I'm Parth
   
+  - 👋 Hello, I'm Parth
   - 🤖 Machine Learning Engineer.
   - 🧠 Currently focusing on Computer Vision and Deep Learning in general.
   - ❤️‍🔥 Kaggler by heart.
